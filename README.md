@@ -2,4 +2,4 @@
 Fueled by ☕️ caffeine and pure hatred.
 
 💻 Tech Stack:
-phphtml5css3javascript
+🐘 PHP     🌐 HTML     🎨 CSS     ⚡ JavaScript
