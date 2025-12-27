@@ -1,2 +1,2 @@
-🎓 2nd-Year BSIT Student   |   💻 Code Enthusiast   |   ☕️ Fueled by Caffeine & 💀 Pure Hatred
+🎓 2nd-Year BSIT Student, Fueled by Caffeine &  Pure Hatred.
 
