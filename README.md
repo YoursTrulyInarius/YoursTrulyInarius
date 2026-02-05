@@ -17,4 +17,21 @@ A passionate developer dedicated to building efficient, user-centric solutions. 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Project Highlights
+
+*Below are some of my featured repositories and projects:*
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Library Management System](https://github.com/YoursTrulyInarius/Library-Management-System)** | A robust desktop application with fuzzy duplicate detection. | Python, Tkinter, SQLite |
+| **[Retail Inventory System]** | Modern POS and inventory tracking solution. | PHP, MySQL |
+| **[Hugot Quote Generator]** | A fun, interactive web app for curated quotes. | JS, HTML, CSS |
+
+> [!NOTE]
+> *More projects available on my [GitHub Profile](https://github.com/YoursTrulyInarius).*
