@@ -2,8 +2,6 @@
 **Sonjeev Cabardo**
 *2nd-Year BSIT Student @ West Prime Horizon Institute Inc.*
 
-A passionate developer dedicated to building efficient, user-centric solutions. With a focus on modern software architecture and data management, I strive to create impactful tools that solve real-world problems.
-
 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
