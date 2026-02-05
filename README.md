@@ -1,6 +1,4 @@
-## 👩‍💻 About the Developer
-**Sonjeev Cabardo**
-*2nd-Year BSIT Student @ West Prime Horizon Institute Inc.*
+Hello! I am a 2nd-Year BSIT Student @ West Prime Horizon Institute Inc.
 
 ### 💻 Tech Stack
 
