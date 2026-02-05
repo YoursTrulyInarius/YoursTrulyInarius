@@ -23,15 +23,6 @@ A passionate developer dedicated to building efficient, user-centric solutions. 
 
 ---
 
-## 📂 Project Highlights
-
-*Below are some of my featured repositories and projects:*
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Library Management System](https://github.com/YoursTrulyInarius/Library-Management-System)** | A robust desktop application with fuzzy duplicate detection. | Python, Tkinter, SQLite |
-| **[Retail Inventory System]** | Modern POS and inventory tracking solution. | PHP, MySQL |
-| **[Hugot Quote Generator]** | A fun, interactive web app for curated quotes. | JS, HTML, CSS |
-
+### 📂 Below are my repositories:
 > [!NOTE]
-> *More projects available on my [GitHub Profile](https://github.com/YoursTrulyInarius).*
+> *Explore my projects and contributions on my [GitHub Profile](https://github.com/YoursTrulyInarius).*
