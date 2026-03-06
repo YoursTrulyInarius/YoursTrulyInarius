@@ -1,5 +1,3 @@
-<br>
-
 ---
 
 ## 👨‍💻 About the Developer
@@ -28,6 +26,7 @@ Hello! I am a **2nd-Year BSIT Student** @ West Prime Horizon Institute Inc.
 ### 🛠️ Tools & Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
 
