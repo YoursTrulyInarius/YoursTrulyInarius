@@ -80,8 +80,3 @@
 
 <br>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoursTrulyInarius&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
