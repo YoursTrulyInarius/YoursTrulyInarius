@@ -15,9 +15,8 @@
 <div align="center">
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently focusing on modern full-stack web and mobile development.
-- 💡 Passionate about building clean, scalable applications and intuitive user experiences.
-- 🚀 Always open to exploring new technologies, challenges, and collaborative projects.
+- I’m currently focusing on modern full-stack web and mobile development.
+
 
 </div>
 
