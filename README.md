@@ -16,7 +16,8 @@
 
 ### 👨‍💻 About Me
 - I’m currently focusing on modern full-stack web and mobile development.
-- 
+- Loves to explore new languages
+- fueled by pure hatred and caffiene
 
 
 </div>
