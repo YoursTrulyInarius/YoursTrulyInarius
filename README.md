@@ -5,7 +5,6 @@
 
 <i>Building things, learning continuously, and turning ideas into working systems.</i>
 
-...
 
 <br>
 
