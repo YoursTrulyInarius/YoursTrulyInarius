@@ -101,12 +101,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YoursTrulyInarius">
-  <img src="https://img.shields.io/badge/GitHub-YoursTrulyInarius-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:sonjeevcabardo69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sonjeevcabardo69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+📧 **sonjeevcabardo69@gmail.com**   |   💻 [**@YoursTrulyInarius**](https://github.com/YoursTrulyInarius)
 
 </div>
 
