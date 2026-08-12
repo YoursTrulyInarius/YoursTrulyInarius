@@ -4,9 +4,6 @@
 
 ### I am a 3rd-Year BSIT Student @ West Prime Horizon Institute Inc.
 
-<a href="https://github.com/YoursTrulyInarius">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+App+Developer;Passionate+about+Code" alt="Typing SVG" />
-</a>
 
 </div>
 
