@@ -1,40 +1,3 @@
-<div align="center">
-
-### 👋 Hi, I'm Sonjeev C. Cabardo
-**3rd-Year BSIT Student • Developer • Builder**
-
-<i>Building things, learning continuously, and turning ideas into working systems.</i>
-
-<br>
-
-<a href="https://github.com/YoursTrulyInarius">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:sonjeevcabardo69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-## 🧑‍💻 About Me
-
-```
-┌──────────────────────────────────────────┐
-│  SONJEEV C. CABARDO                      │
-│                                          │
-│  3rd-Year BSIT Student                   │
-│  West Prime Horizon Institute Inc.       │
-│                                          │
-│  > Building web applications             │
-│  > Developing database-driven systems    │
-│  > Exploring mobile development          │
-│  > Learning through real-world projects  │
-│  > Improving one project at a time       │
-└──────────────────────────────────────────┘
-```
-
 I'm a 3rd-Year Bachelor of Science in Information Technology student interested in software development, web applications, databases, and mobile development.
 
 I enjoy building practical systems, experimenting with different technologies, solving programming problems, and continuously improving my development skills through hands-on projects.
@@ -118,32 +81,12 @@ I enjoy building practical systems, experimenting with different technologies, s
 
 <br>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoursTrulyInarius&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&count_private=true" height="180" alt="GitHub Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoursTrulyInarius&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" height="180" alt="Top Languages" />
-
-</div>
-
-<br>
-
-## 📂 Featured Repositories
+## 📂 Below are my repositories
 
 <div align="center">
 
 <a href="https://github.com/YoursTrulyInarius?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/YoursTrulyInarius?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-BUILDING%20%26%20LEARNING-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/YoursTrulyInarius?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
