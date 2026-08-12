@@ -13,34 +13,39 @@ Author: Shlayer <YoursTrulyInarius@github>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="120"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cs,java,js,python,php,dart,html,css" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="center"><b>Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,flutter,tailwind,bootstrap,vite" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /></td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></td>
-</tr>
+<div align="center">
+
+**Languages**
+
+<table>
+<tr><td align="center" width="70"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/><br><sub>C#</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/><br><sub>Java</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br><sub>JavaScript</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><br><sub>Python</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/><br><sub>PHP</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/><br><sub>Dart</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br><sub>HTML5</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br><sub>CSS3</sub></td></tr>
 </table>
+
+**Frameworks**
+
+<table>
+<tr><td align="center" width="70"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br><sub>React</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br><sub>Node.js</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/><br><sub>.NET</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/><br><sub>Flutter</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/><br><sub>Tailwind</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/><br><sub>Bootstrap</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/><br><sub>Vite</sub></td></tr>
+</table>
+
+**Databases**
+
+<table>
+<tr><td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/><br><sub>PostgreSQL</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/><br><sub>MySQL</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br><sub>MongoDB</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/><br><sub>SQLite</sub></td></tr>
+</table>
+
+**Tools**
+
+<table>
+<tr><td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br><sub>Git</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/><br><sub>GitHub</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/><br><sub>VS Code</sub></td><td align="center" width="70"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/><br><sub>Figma</sub></td></tr>
+</table>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoursTrulyInarius&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoursTrulyInarius&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoursTrulyInarius&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
