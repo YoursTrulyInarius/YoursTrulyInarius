@@ -1,6 +1,11 @@
-I'm a 3rd-Year Bachelor of Science in Information Technology student interested in software development, web applications, databases, and mobile development.
+<div align="center">
 
-I enjoy building practical systems, experimenting with different technologies, solving programming problems, and continuously improving my development skills through hands-on projects.
+### 👋 <mark>Hi, I'm Sonjeev C. Cabardo</mark>
+**3rd-Year BSIT Student • Developer • Builder**
+
+<i>Building things, learning continuously, and turning ideas into working systems.</i>
+
+...
 
 <br>
 
